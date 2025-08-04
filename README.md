@@ -17,7 +17,7 @@ Tuplets: In Python, there are different data types: String, Integer, and Float. 
 
 
 
-2. Databases and SQL for Data Science - Coursera (Week 1-3)
-3. R Programming - JHU (Week 1-4) & R for Daata Schience (cap 1-10)
+**2. Databases and SQL for Data Science - Coursera (Week 1-3)**
+**3. R Programming - JHU (Week 1-4) & R for Daata Schience (cap 1-10)**
 
    
